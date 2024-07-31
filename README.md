@@ -20,6 +20,15 @@ Os códigos fornecidos são partes de uma aplicação web para gerenciamento de 
 nome do produto, descrição do produto, quantidade em estoque, preço do produto, categoria do produto, marca do produto. Quando o formulário é submetido, os dados são enviados para um script PHP (insere-produto.php), que processa a inserção do novo produto no banco de dados.
 
 # Funcinalidades
+A aplicação web fornecida tem várias funcionalidades essenciais para o gerenciamento de produtos e categorias. 
+Cadastro de Produtos: Permite aos usuários adicionar novos produtos ao sistema.
+Formulário de Cadastro: Os usuários preenchem informações sobre o produto, incluindo nome, descrição, quantidade em estoque, preço, categoria e marca.
+Interação com o Banco de Dados: Quando o formulário é enviado, os dados são processados e inseridos na tabela produtos do banco de dados por meio de um script PHP (insere-produto.php).
+Geração Dinâmica de Conteúdo: O script PHP (produtos-resumo.php) recupera as informações dos produtos e as exibe na página, oferecendo uma visão geral do pedido para o usuário.
+Processamento de Dados: Recebe a descrição da marca do formulário e executa um comando SQL para inserir a marca na tabela marca.
+Feedback ao Usuário: Exibe uma mensagem informando o sucesso ou a falha da operação de inserção.
+Formulário de Cadastro: Os usuários inserem a descrição da nova categoria.
+Processamento e Armazenamento: O script PHP (insere-categoria.php) processa a inserção da categoria na tabela categoria do banco de dados.
 # Tecnologias utilizadas
 # Fontes consultadas
 # Autores
