@@ -20,7 +20,7 @@ A página também permite aos usuários cadastrar novas categorias de produtos n
 Os códigos fornecidos são partes de uma aplicação web para gerenciamento de produtos. A aplicação inclui funcionalidades para cadastro de novos produtos, marcas e categorias, além de exibir resumos de pedidos. Esta página HTML e PHP permite aos usuários cadastrar novos produtos no sistema. A interface inclui um formulário onde os usuários podem inserir:
 nome do produto, descrição do produto, quantidade em estoque, preço do produto, categoria do produto, marca do produto. Quando o formulário é submetido, os dados são enviados para um script PHP (insere-produto.php), que processa a inserção do novo produto no banco de dados.
 
-# Funcinalidades
+# Funcionalidades
 A aplicação web fornecida tem várias funcionalidades essenciais para o gerenciamento de produtos e categorias. 
 Cadastro de Produtos: Permite aos usuários adicionar novos produtos ao sistema.
 
