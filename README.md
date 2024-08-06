@@ -48,3 +48,5 @@ CSS
 Leonardo
 ChatGPT
 # Autores
+Gabriella
+Leonardo
