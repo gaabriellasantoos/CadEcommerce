@@ -1,6 +1,7 @@
 # CadEcommerce
 
-image.png
+![MuaKissGIF](https://github.com/user-attachments/assets/6062db80-b97e-4eb2-b265-8f6b2d8293d0)
+
 
 [CadEcommerce](#cadecommerce)
 [Descrição](#descri%C3%A7%C3%A3o)
