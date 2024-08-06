@@ -46,8 +46,8 @@ Processamento e Armazenamento: O script PHP (insere-categoria.php) processa a in
 - MYSQL
 - CSS
 # Fontes consultadas
-- [Leonardo]
-- [ChatGPT]
+- [Leonardo](https://github.com/LeonardoRochaMarista/LeonardoRochaMarista)
+- [ChatGPT](https://chatgpt.com/)
 # Autores
-- [Gabriella]
-- [Leonardo]
+- [Gabriella](https://github.com/gaabriellasantoos)
+- [Leonardo](https://github.com/LeonardoRochaMarista/LeonardoRochaMarista)
