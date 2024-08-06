@@ -43,4 +43,6 @@ HTML
 MYSQL
 CSS
 # Fontes consultadas
+Leonardo
+ChatGPT
 # Autores
