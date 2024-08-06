@@ -41,13 +41,13 @@ Formulário de Cadastro: Os usuários inserem a descrição da nova categoria.
 
 Processamento e Armazenamento: O script PHP (insere-categoria.php) processa a inserção da categoria na tabela categoria do banco de dados.
 # Tecnologias utilizadas
-PHP
-HTML
-MYSQL
-CSS
+- PHP
+- HTML
+- MYSQL
+- CSS
 # Fontes consultadas
-Leonardo
-ChatGPT
+- Leonardo
+- ChatGPT
 # Autores
-Gabriella
-Leonardo
+- Gabriella
+- Leonardo
