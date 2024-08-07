@@ -19,10 +19,10 @@
 
 [Autores](#autores)
 
-## Introdução
+## Introdução 🔗
 Este Projeto foi criado para facilitar o gerenciamento de produtos, marcas e categorias. Ele foi desenvolvido como parte da disciplina de Programação Web II e visa tornar a administração de inventário mais simples e eficiente.
 
-## Descrição
+## Descrição 🔗
 Aqui você encontrará tudo o que precisa para gerenciar seu inventário de produtos. A aplicação permite cadastrar produtos, marcas e categorias, além de exibir resumos de pedidos de forma clara e organizada.
 
 ### Cadastro de Produtos
@@ -34,7 +34,7 @@ Aqui você pode adicionar novas marcas. O processo é simples: preencha a descri
 ### Cadastro de Categorias
 Adicionar novas categorias é tão fácil quanto adicionar marcas. Basta preencher a descrição da categoria no formulário e enviar. O script PHP ``insere-categoria.php`` processa a solicitação e salva a nova categoria no banco de dados.
 
-## Funcionalidades
+## Funcionalidades 🔗
 
 ### Cadastro de Produtos
 - **Formulário Simples**: Insira o nome, descrição, quantidade em estoque, preço, categoria e marca do produto.
@@ -143,23 +143,22 @@ Este script recebe a descrição da nova categoria do formulário e a insere na 
 ### Exemplo de Uso
 Para cadastrar uma nova categoria, preencha o campo de descrição no formulário e clique em "Cadastrar".
 
-## Banco de Dados
+## Banco de Dados 🔗
 
 ![img do codigo](img3.png)
 ![img do codigo](img.png.png)
 ![img do codigo](img.2.png)
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 🔗
 - ``PHP``
 - ``HTML5``
 - ``CSS3``
 - ``MySQL``
 - ``JavaScript (jQuery)``
 
-# Fontes consultadas
-- [Leonardo](https://github.com/LeonardoRochaMarista/LeonardoRochaMarista)
-  
+## Fontes consultadas 🔗
 - [ChatGPT](https://chatgpt.com/)
-# Autores
+
+## Autores 🔗
 - [Gabriella](https://github.com/gaabriellasantoos)
 - [Leonardo](https://github.com/LeonardoRochaMarista/LeonardoRochaMarista)
