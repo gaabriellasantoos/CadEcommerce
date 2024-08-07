@@ -74,6 +74,14 @@ if (mysqli_affected_rows($mysqli) != 0) {
 }
 ?>
 ```
+### Metodos
+(mysqli_affected_rows($mysqli) !=0): Essa função é útil para verificar quantas linhas foram inseridas, atualizadas ou deletadas em uma operação SQL.
+ mysqli_query($mysqli, $grava_produto): é usado no PHP para executar uma consulta SQL em um banco de dados MySQL
+ mysqli_error($mysqli):  usada para obter a mensagem de erro mais recente da última operação executada na conexão representada por $mysqli
+ mysqli_close($mysqli): usado para fechar uma conexão aberta com um banco de dados MySQL.
+ mysqli_connect- :  estabelece uma conexão com um banco de dados MySQL.
+ require_once-:  usado para incluir e avaliar um arquivo PHP em outro arquivo.
+ 
 ### Explicação do Código
 Este script recebe os dados do formulário de cadastro de produtos (categoria, marca, nome, descrição, estoque e preço) e insere esses dados na tabela ``produtos`` do banco de dados. Se a inserção for bem-sucedida, uma mensagem de sucesso é exibida. Caso contrário, uma mensagem de erro é mostrada.
 
