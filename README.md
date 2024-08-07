@@ -4,11 +4,19 @@
 
 
 [CadEcommerce](#cadecommerce)
-[Descrição](#descri%C3%A7%C3%A3o)
+
 [Introdução](#introdu%C3%A7%C3%A3o)
+
+[Descrição](#descri%C3%A7%C3%A3o)
+
 [Funcionalidades](#funcinalidades)
+
+[Banco de dados](#banco-de-dados)
+
 [Tecnologias utilizadas](#tecnologias-utilizadas)
+
 [Fontes consultadas](#fontes-consultadas)
+
 [Autores](#autores)
 
 ## Introdução
